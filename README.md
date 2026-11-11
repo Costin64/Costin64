@@ -2,7 +2,7 @@
 
 # ⚙️ COSTIN'S AUTOMATON WORKSHOP ⚙️
 
-*Distinguished Gentleman of the Digital Era & Builder of Steam-Powered Algorithms*
+*Distinguished Gentleman of the Digital Era & Builder of Steam-Powered Programs*
 
 ---
 
