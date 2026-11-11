@@ -1,13 +1,13 @@
 <div align="center">
 
-# ⚙️ SIR PATATA'S AUTOMATON WORKSHOP ⚙️
+# ⚙️ SIR PATATA's AUTOMATON WORKSHOP ⚙️
 
 *Distinguished Gentleman of the Digital Era & Builder of Steam-Powered Algorithms*
 
 ---
 
 ![Status](https://img.shields.io/badge/Status-Operating_at_Full_Steam-d4af37?style=for-the-badge&logo=clockwork)
-![Language](https://img.shields.io/badge/Core-C_--_Language-2ea44f?style=for-the-badge&logo=c)
+![Language](https://img.shields.io/badge/Core-C%23_--_Language-2ea44f?style=for-the-badge&logo=csharp)
 ![Build](https://img.shields.io/badge/Boiler-High_Pressure-8c4c27?style=for-the-badge)
 
 </div>
@@ -42,9 +42,9 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Costin64&show_icons=true&theme=copper&hide_border=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=copper&hide_border=true&count_private=true" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Costin64&layout=compact&theme=copper&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=copper&hide_border=true" />
 
 </div>
 
@@ -53,9 +53,9 @@
 ## 🐍 STEAM ENGINE ACTIVITY MAP
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Costin64/Costin64/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Costin64/Costin64/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/Costin64/Costin64/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg">
 </picture>
 
 ---
