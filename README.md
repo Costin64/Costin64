@@ -18,10 +18,10 @@
 
 > *"Modern technology is nothing more than magic powered by steam and well-greased gears."*
 
-* 🕰️ **Era / Location:** London, 1888 // Cyberspace
-* 🎩 **Specialty:** Software development with Victorian elegance and low-level architecture.
-* ⚙️ **In the Workshop:** Currently forging projects in **`C#`** and optimizing rendering engines.
-* 💡 **Philosophy:** If something cannot be fixed with a wrench and a memory pointer, it needs more steam pressure.
+- 🕰️ **Era / Location:** London, 1888 // Cyberspace
+- 🎩 **Specialty:** Software development with Victorian elegance and low-level architecture.
+- ⚙️ **In the Workshop:** Currently forging projects in **`C#`** and optimizing rendering engines.
+- 💡 **Philosophy:** If something cannot be fixed with a wrench and a memory pointer, it needs more steam pressure.
 
 ---
 
@@ -55,7 +55,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Costin64/Costin64/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Costin64/Costin64/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/TCostin64/Costin64/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/Costin64/Costin64/output/github-contribution-grid-snake.svg">
 </picture>
 
 ---
