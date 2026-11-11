@@ -42,9 +42,12 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Costin64&show_icons=true&theme=copper&hide_border=true&count_private=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Costin64&layout=compact&theme=copper&hide_border=true" />
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Costin64&show_icons=true&theme=copper&hide_border=true&count_private=true" alt="Costin64's Github Stats" />
+</p>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Costin64&layout=compact&theme=copper&hide_border=true" alt="Top Langs" />
+</p>
 
 </div>
 
@@ -52,11 +55,9 @@
 
 ## 🐍 STEAM ENGINE ACTIVITY MAP
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Costin64/Costin64/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Costin64/Costin64/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/Costin64/Costin64/output/github-contribution-grid-snake.svg">
-</picture>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Costin64/Costin64/output/github-contribution-grid-snake.svg" alt="github contribution grid snake" />
+</div>
 
 ---
 
