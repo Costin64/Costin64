@@ -18,7 +18,7 @@
 
 > *"Modern technology is nothing more than magic powered by steam and well-greased gears."*
 
-- 🕰️ **Era / Location:** London, 1888 // Cyberspace
+- 🕰️ **Era / Location:** Sector 8, Chrono-City // The Floating Spires of Albion
 - 🎩 **Specialty:** Software development with Victorian elegance and low-level architecture.
 - ⚙️ **In the Workshop:** Currently forging projects in **`C#`** and optimizing rendering engines.
 - 💡 **Philosophy:** If something cannot be fixed with a wrench and a memory pointer, it needs more steam pressure.
